@@ -5,6 +5,8 @@
 > - For detailed development guidelines in English, see [DEVELOPMENT.md](DEVELOPMENT.md)
 > - For detailed development guidelines in Vietnamese, see [DEVELOPMENT.vi.md](DEVELOPMENT.vi.md)
 
+**Project Repository**: [@TeoSushi1014/examapp](https://github.com/TeoSushi1014/examapp)
+
 ## Project Description
 
 This application manages and processes multiple-choice exams. Each question in the exam includes:
@@ -89,7 +91,3 @@ This application manages and processes multiple-choice exams. Each question in t
    - Test all features thoroughly
    - Verify correct answer checking
    - Ensure proper duplicate question detection
-
-## Note
-
-For Vietnamese version, please refer to [DEVELOPMENT.vi.md](DEVELOPMENT.vi.md) 

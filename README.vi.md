@@ -5,6 +5,8 @@
 > - Để xem hướng dẫn phát triển chi tiết bằng tiếng Anh, xem [DEVELOPMENT.md](DEVELOPMENT.md)
 > - Để xem hướng dẫn phát triển chi tiết bằng tiếng Việt, xem [DEVELOPMENT.vi.md](DEVELOPMENT.vi.md)
 
+**Project Repository**: [@TeoSushi1014/examapp](https://github.com/TeoSushi1014/examapp)
+
 ## Mô Tả Dự Án
 
 Ứng dụng này quản lý và xử lý các đề thi trắc nghiệm. Mỗi câu hỏi trong đề thi bao gồm:
