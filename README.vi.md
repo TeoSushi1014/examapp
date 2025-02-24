@@ -1,5 +1,10 @@
 # Ứng Dụng Thi Trắc Nghiệm
 
+> **Ghi chú**: 
+> - Để xem phiên bản tiếng Anh của README này, vui lòng tham khảo [README.md](README.md)
+> - Để xem hướng dẫn phát triển chi tiết bằng tiếng Anh, xem [DEVELOPMENT.md](DEVELOPMENT.md)
+> - Để xem hướng dẫn phát triển chi tiết bằng tiếng Việt, xem [DEVELOPMENT.vi.md](DEVELOPMENT.vi.md)
+
 ## Mô Tả Dự Án
 
 Ứng dụng này quản lý và xử lý các đề thi trắc nghiệm. Mỗi câu hỏi trong đề thi bao gồm:
@@ -83,8 +88,4 @@
 4. **Kiểm Thử**
    - Kiểm tra kỹ lưỡng tất cả tính năng
    - Xác minh việc kiểm tra đáp án đúng
-   - Đảm bảo phát hiện câu hỏi trùng lặp chính xác
-
-## Ghi Chú
-
-Để xem phiên bản tiếng Anh, vui lòng tham khảo [README.md](README.md) 
+   - Đảm bảo phát hiện câu hỏi trùng lặp chính xác 

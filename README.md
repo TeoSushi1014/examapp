@@ -1,5 +1,10 @@
 # Multiple Choice Exam Application
 
+> **Note**: 
+> - For Vietnamese version of this README, please refer to [README.vi.md](README.vi.md)
+> - For detailed development guidelines in English, see [DEVELOPMENT.md](DEVELOPMENT.md)
+> - For detailed development guidelines in Vietnamese, see [DEVELOPMENT.vi.md](DEVELOPMENT.vi.md)
+
 ## Project Description
 
 This application manages and processes multiple-choice exams. Each question in the exam includes:
